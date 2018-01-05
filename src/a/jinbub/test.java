@@ -18,6 +18,7 @@ public class test {
 
 			}
 			result += d;
+			++result; 
 
 		}
 
